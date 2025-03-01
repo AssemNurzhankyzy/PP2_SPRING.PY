@@ -1,1 +1,0 @@
-echo '{}' > sample-data.json
